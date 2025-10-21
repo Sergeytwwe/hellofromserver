@@ -1,0 +1,1 @@
+print("Hello from hosted Luau script!")
